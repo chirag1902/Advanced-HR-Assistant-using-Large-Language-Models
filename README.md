@@ -41,7 +41,8 @@ The Advanced HR Assistant is a web application developed in Python using Streaml
 ### Frameworks and Libraries
 
 - Streamlit
-- Google's Large Language Models (Palm, LangChain)
+- Google's Large Language Models (Palm)
+- LangChain
 - Pandas, NumPy
 
 ### External Tools
