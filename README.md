@@ -1,5 +1,5 @@
 # Advanced HR Assistant using Large Language Models
-
+An intelligent HR assistant leveraging Google's Large Language Models and LangChain for streamlining the hiring process.
 ## Overview
 
 The Advanced HR Assistant is a web application developed in Python using Streamlit, Google's Large Language Models, and LangChain to enhance the hiring process. This application aims to provide an intelligent HR assistant capable of assisting in various HR tasks, such as improving job descriptions, shortlisting candidates based on their resumes, conducting chat interviews, and sending notifications and login credentials to shortlisted candidates.
